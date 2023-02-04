@@ -1,0 +1,48 @@
+.font-item{
+    font-family: 'Kanit', sans-serif;
+}
+.red-highlight{
+    color: red;
+}
+.logo{
+    width: 20%;
+    float: left;
+    margin-left: 10%;
+    padding-left: 4%;
+}
+.logo img{
+    width: 100%;
+}
+.desc{
+    font-family: 'PT Sans', sans-serif;
+}
+.discord-button{
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg,red, maroon);
+
+}
+section{
+    height: 500px;
+}
+body{
+    margin: 0;
+}
+.topper{
+   background-image: url(img/topper.png);
+   background-repeat: no-repeat; 
+}
+.goals-text{
+    margin-left: 40%;
+    padding-left: 4%;
+    font-family: 'PT Sans', sans-serif;
+}
+.games-text{
+    margin-left: 20%;
+    padding-left: 4%;
+    font-family: 'PT Sans', sans-serif;
+}
